@@ -1,0 +1,2 @@
+{"id": "pixel6_doc", "structData": {"title": "pixel6", "description": "This document is for pixel6", "model": "pixel6"}, "content": {"mimeType": "application/pdf", "uri": "gs://datastore_vs_kit/pixel/Pixel_6.pdf"}}
+{"id": "pixel7_doc", "structData": {"title": "pixel7", "description": "This document is for pixel7", "model": "pixel7"}, "content": {"mimeType": "application/pdf", "uri": "gs://datastore_vs_kit/pixel/Pixel_7.pdf"}}
